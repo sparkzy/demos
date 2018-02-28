@@ -1,5 +1,2 @@
 # demos
-testing Jenkins
-testing Jenkins again
-testing Jenkins again
-asdsad
+I'm pretty sure Jenkins is working
